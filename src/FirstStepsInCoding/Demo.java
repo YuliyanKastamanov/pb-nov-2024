@@ -1,3 +1,5 @@
+package FirstStepsInCoding;
+
 import java.util.Scanner;
 
 public class Demo {
@@ -40,6 +42,13 @@ public class Demo {
         System.out.println("Hello, " + name + "!");
 
         System.out.println("Hello: " + (7 + 10));
+
+        //Шаблони
+        // %s -> String
+        // %d -> int
+        // %f -> double
+        // %c -> char
+        // %n -> new line
 
 
 
